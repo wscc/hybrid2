@@ -1,8 +1,8 @@
 # hybrid2
 
-    This is the R code for modification of WGCNA, combined the features of signed and unsigned WGCNA.
+    This is the R code for modification of WGCNA, combining the features of signed and unsigned WGCNA.
     hpickSoftThreshold.r for picking the power, hadjacency.r for calculating the adjacency from expression matrix.
-    you can use it like:
+    you can use it as below:
 
     source('hpickSoftThreshold.r')
     enableWGCNAThreads()
